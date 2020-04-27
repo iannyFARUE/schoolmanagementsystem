@@ -1,0 +1,28 @@
+body{
+
+    background-image: url("../storage/images/college.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navbar-brand img{
+    max-height: 2.3em;
+}
+
+.custom-color{
+    color:#6ea3f1;
+}
+
+form .fa-user{
+
+    z-index: 99;
+    position: absolute;
+    top:40%;
+    left:1.3em;
+
+}
+
+.card{
+    background-color: #e7e7e7;
+}
